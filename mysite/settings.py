@@ -121,8 +121,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
-AWS_ACCESS_KEY_ID = 'Q7D2DFSAPY2IQOTS73AE'
-AWS_SECRET_ACCESS_KEY = '2PZVaTa9Qo5BQMHz8LBVjee9a4nuGXQZ1WyyVUiITbY'
+AWS_ACCESS_KEY_ID = '********************'
+AWS_SECRET_ACCESS_KEY = '*******************************'
 AWS_STORAGE_BUCKET_NAME = 'demo-space'
 AWS_S3_ENDPOINT_URL = 'https://nyc3.digitaloceanspaces.com'
 AWS_S3_OBJECT_PARAMETERS = {
